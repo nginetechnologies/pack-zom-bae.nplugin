@@ -1,0 +1,496 @@
+{
+    "guid": "a1f27f09-1da3-5697-b3ce-1ece0834ee98",
+    "source": "/Users/collinbishop/Documents/GitHub/pack-zom-bae.nplugin/Assets/Objects/SC_Zom_Bae.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8724f87a-bd51-72a1-fab4-e74d54a5cf57",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Zom Bae"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a437d316-eb1e-45cb-2a26-19ed155fba54",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d8479292-8560-8e6d-9888-346cdf41eb4c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0b7ec76c-e7a8-910c-9caa-b94b5060e45a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Blood 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d34c1478-39eb-2a5a-554e-7745754efeb9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5c1c7766-7a91-3f9d-9516-28898135a871",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Blood 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d27510d7-7a5c-720a-4530-83a458fde9c1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "646f6f18-c551-d184-4fbb-f9436c22e581",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Blood 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8e060e44-72b7-ec04-381c-5f5d3256b750"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cae2f2c4-b026-1b3a-2515-827bb45cc1f0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chest"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9e7c5149-ad9e-0750-1174-1c9585d4a8ef"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ab0185e3-bda2-ea07-2d20-3935358a7736",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chest Special"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1e588fd7-3887-858d-da44-ebbf1ea458aa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1e8f0a37-3b27-f5ab-bca9-b24cfeaa3bfb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cinder Block"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d12f7424-1ba0-7d5c-3dd9-4e479193bd23"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c2f7af6a-a851-4e34-f7cd-7572f3351fc8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Container Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e8fd9cb6-02a9-531a-ba60-386aa75ce004"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "779cfdb2-0747-c7c7-ede0-4dd512a9b3e2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Container Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "35f24356-fd15-32cf-2fa2-c8981c82e66f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a6e67680-dd89-c57b-62c4-5b0573c8117a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Couch"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f33a398d-d139-e1bb-f5dc-46cdc489d4b2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d26661fa-f879-93f3-25dd-badd2e5780b0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fire Hydrant"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1d9e0314-ba4c-146b-a24f-0b358d849bfc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6a2b10d0-9c5a-209b-8457-115f51945682",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pallet"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "35d0427a-8da9-3fb6-081b-db97305f9c91"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f8d4108b-5f54-abe9-6734-a4643ac7019d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pallet Broken"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "62fa2135-321b-61f7-7915-05b230484bb3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "668b0bad-84fe-d0e2-e1cd-05637d968a00",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipes"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8df2ee72-93df-4b8d-2879-7dadda53885b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bd9260a2-c6d1-091e-5e4c-6d815e21a8c4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plastic Barrier"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "863f6df5-803f-df74-1b69-bf8f4699c107"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "88f68346-b675-4bf4-b797-bbbfe1b326e7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Street 4 Way"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "802304c8-d102-5bf3-0d7b-d433960a208d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3a25a138-1d7c-aee9-2c99-eeb1cf3a9370",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Street Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e69d691f-6fe9-a481-d83f-2a3f3e457aef"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "75b9aec2-d017-5888-c672-092b5ed619b9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Street Straight Crack 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a57c9089-0403-a17a-c579-28307fde0e07"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3ea8a959-2b67-8635-4778-cbac9a1ed51a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Street Straight Crack2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "02ec6570-587e-9a81-f00c-5ea7881bb4a6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a4472679-872e-284f-5b39-bffd003d147d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Street T"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "84df3ed3-a2d2-8cd4-38ce-a10188bbc6e5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6e0e0413-41a0-ddef-a9ef-2c0ed19fc98d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Street Turn"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fd000618-7287-21fa-ee81-a2150f013000"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fe379aa4-529c-7909-d829-a8930a822219",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Streetlights"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "49efdf5f-70a4-64a3-58fb-2f94ffcbd0b4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a2611068-2b8c-dce7-ede1-c1956e482d28",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Town Sign"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0ebbbb9e-6401-a352-b0d7-2cd2c227d35b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "27314c66-b298-5f90-8bec-4ef8f896083f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Traffic Barrier 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9157faa3-1aa4-a24b-ab15-e8cfd1c17821"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fdfb3a4d-7e8c-f8f0-70de-00ac0c85ad61",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Traffic Barrier 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "87e6401b-7bd0-745c-c801-e6e2462db0b4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "93635b7e-0ebb-ff20-05e2-eba2998d8aa2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Traffic Cone 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d631e898-c5a8-4408-7cac-3009cdbee344"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "eadcad22-8d2f-b77c-72ba-221a348a5a8f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Traffic Cone 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "40c84463-28fd-9131-bb3b-31f8a3e436c5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "46fcfd42-6bd0-11d0-9595-ad0895bad335",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Traffic Light 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "34e21631-27da-3824-6376-62465925de24"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8eed5f6e-edf7-941a-b343-8915acb768c3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Traffic Light 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0171570e-6b73-a3af-707d-4f8c2177b4f9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b457f71b-5f3f-7104-d19f-3d254c65dfc3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trash Bag 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "163d07b6-c43b-5ded-5b0a-8782f8a773bd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b5921818-ae56-bc63-24c7-eac9a852e157",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trash Bag 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c181e131-25cd-1982-fb5b-fa1a5cb7cb49"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fdc292f8-3d7d-b1ce-b3fb-c0dea367f349",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Water Tower"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e8e82dac-702d-a46c-845d-537c03053c42"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "35920a07-0726-420d-df92-cbb8b410e4c5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bc52e4b3-44f9-7161-a3c9-831200501039"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7057222b-806f-05f1-e4ad-96b9966be43a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheels Stack"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "757a802e-da41-8882-4b66-020254015297"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a1f27f09-1da3-5697-b3ce-1ece0834ee98"
+    },
+    "dependencies": [
+        "d8479292-8560-8e6d-9888-346cdf41eb4c",
+        "d34c1478-39eb-2a5a-554e-7745754efeb9",
+        "d27510d7-7a5c-720a-4530-83a458fde9c1",
+        "8e060e44-72b7-ec04-381c-5f5d3256b750",
+        "9e7c5149-ad9e-0750-1174-1c9585d4a8ef",
+        "1e588fd7-3887-858d-da44-ebbf1ea458aa",
+        "d12f7424-1ba0-7d5c-3dd9-4e479193bd23",
+        "e8fd9cb6-02a9-531a-ba60-386aa75ce004",
+        "35f24356-fd15-32cf-2fa2-c8981c82e66f",
+        "f33a398d-d139-e1bb-f5dc-46cdc489d4b2",
+        "1d9e0314-ba4c-146b-a24f-0b358d849bfc",
+        "35d0427a-8da9-3fb6-081b-db97305f9c91",
+        "62fa2135-321b-61f7-7915-05b230484bb3",
+        "8df2ee72-93df-4b8d-2879-7dadda53885b",
+        "863f6df5-803f-df74-1b69-bf8f4699c107",
+        "802304c8-d102-5bf3-0d7b-d433960a208d",
+        "e69d691f-6fe9-a481-d83f-2a3f3e457aef",
+        "a57c9089-0403-a17a-c579-28307fde0e07",
+        "02ec6570-587e-9a81-f00c-5ea7881bb4a6",
+        "84df3ed3-a2d2-8cd4-38ce-a10188bbc6e5",
+        "fd000618-7287-21fa-ee81-a2150f013000",
+        "49efdf5f-70a4-64a3-58fb-2f94ffcbd0b4",
+        "0ebbbb9e-6401-a352-b0d7-2cd2c227d35b",
+        "9157faa3-1aa4-a24b-ab15-e8cfd1c17821",
+        "87e6401b-7bd0-745c-c801-e6e2462db0b4",
+        "d631e898-c5a8-4408-7cac-3009cdbee344",
+        "40c84463-28fd-9131-bb3b-31f8a3e436c5",
+        "34e21631-27da-3824-6376-62465925de24",
+        "0171570e-6b73-a3af-707d-4f8c2177b4f9",
+        "163d07b6-c43b-5ded-5b0a-8782f8a773bd",
+        "c181e131-25cd-1982-fb5b-fa1a5cb7cb49",
+        "e8e82dac-702d-a46c-845d-537c03053c42",
+        "bc52e4b3-44f9-7161-a3c9-831200501039",
+        "757a802e-da41-8882-4b66-020254015297"
+    ]
+}
