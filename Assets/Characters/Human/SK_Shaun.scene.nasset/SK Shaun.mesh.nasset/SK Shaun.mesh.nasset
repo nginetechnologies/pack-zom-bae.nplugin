@@ -1,0 +1,75 @@
+{
+    "guid": "d90a4431-4c07-4c59-02ed-61a3f4665316",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e458eb17-7fab-e124-8027-2b9ca8e6515e",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "698436be-29e5-b799-9059-484f969ff331",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Shaun Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "c1accedf-feb8-49c3-6258-6f6a4aa8d6ab",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0647285f-e91e-4773-9ea3-630afa8cc7cd",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Shaun Zombie Characters"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4661de3a-1497-7332-59de-306fc1e6b1ff",
+                                "material_instance": "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ee071af8-c3c2-7099-ede8-7a62bbeba6ae"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d8b3d127-50cd-bf9d-3e45-fcbb566e217a"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d90a4431-4c07-4c59-02ed-61a3f4665316"
+    },
+    "dependencies": [
+        "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
+        "4661de3a-1497-7332-59de-306fc1e6b1ff",
+        "ee071af8-c3c2-7099-ede8-7a62bbeba6ae",
+        "d8b3d127-50cd-bf9d-3e45-fcbb566e217a"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "guid": "40478f3b-e35a-fb2c-aeba-e9ea2c49b8fd",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "083270a1-8c6b-36fc-196b-8da7169fe838",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "0bd50365-046b-313c-9c3b-ad7975cbc98b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Matt Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "a01a8094-20a3-d0b3-eb21-0042d62255c0",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "72da95d2-d1f6-5642-2416-912aae432bda",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Matt Zombie Characters"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "25e4aa71-b875-577c-272c-b4a8899b97ba",
+                                "material_instance": "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "2c31ef34-99ed-c171-3072-215bcd9c5010"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d8b3d127-50cd-bf9d-3e45-fcbb566e217a"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "40478f3b-e35a-fb2c-aeba-e9ea2c49b8fd"
+    },
+    "dependencies": [
+        "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
+        "25e4aa71-b875-577c-272c-b4a8899b97ba",
+        "2c31ef34-99ed-c171-3072-215bcd9c5010",
+        "d8b3d127-50cd-bf9d-3e45-fcbb566e217a"
+    ]
+}

@@ -1,4 +1,8 @@
 {
+    "015ee02d-07eb-2033-52ec-c09494163a0a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Human/Textures/T_Zombie_Atlas_D.tex.nasset"
+    },
     "0171570e-6b73-a3af-707d-4f8c2177b4f9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -23,6 +27,28 @@
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "5d3c442d-0dbd-2126-a416-37dd925457fc",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0780a5c3-4b84-5516-6d61-675d932e5027": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Human/SK_Sam.scene.nasset/SK Sam.mesh.nasset/SK Sam Zombie Characters.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0b3f64bb-ec7c-882e-9c9e-68f7d7ac0067": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Human/SK_Lis.scene.nasset/SK Lis.mesh.nasset/SK Lis Zombie Characters.meshskin.nasset",
+        "dependencies": [
+            "c4233d34-6799-53ac-dbb6-f8f34d9fd6ea",
+            "d8b3d127-50cd-bf9d-3e45-fcbb566e217a",
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
         ]
     },
     "0c48247e-8170-ce72-eb01-5d82f25fbaf7": {
@@ -159,6 +185,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1b116d85-3960-46e8-7b70-8b7757516cd3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Human/SK_Lis.scene.nasset/SK Lis.mesh.nasset/SK Lis.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1bdcf08d-663a-e6d2-609b-0eb8d1a7faae": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Human/SK_Shaun.scene.nasset/SK Shaun.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "1d9e0314-ba4c-146b-a24f-0b358d849bfc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -196,6 +234,33 @@
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "25e4aa71-b875-577c-272c-b4a8899b97ba": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Human/SK_Matt.scene.nasset/SK Matt.mesh.nasset/SK Matt Zombie Characters.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2c31ef34-99ed-c171-3072-215bcd9c5010": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Human/SK_Matt.scene.nasset/SK Matt.mesh.nasset/SK Matt Zombie Characters.meshskin.nasset",
+        "dependencies": [
+            "25e4aa71-b875-577c-272c-b4a8899b97ba",
+            "31cb8aee-16eb-076f-9cc9-5736a1e5d180",
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
+        ]
+    },
+    "31cb8aee-16eb-076f-9cc9-5736a1e5d180": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Human/SK_Matt.scene.nasset/SK Matt.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "34e21631-27da-3824-6376-62465925de24": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -260,6 +325,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "40478f3b-e35a-fb2c-aeba-e9ea2c49b8fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Human/SK_Matt.scene.nasset/SK Matt.mesh.nasset/SK Matt.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "40c84463-28fd-9131-bb3b-31f8a3e436c5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -289,6 +361,28 @@
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin",
         "name": "Zom Bae Assets"
+    },
+    "4661de3a-1497-7332-59de-306fc1e6b1ff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Human/SK_Shaun.scene.nasset/SK Shaun.mesh.nasset/SK Shaun Zombie Characters.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "47dd4928-322b-8de3-ac8e-ca39791613f6": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Human/SK_Sam.scene.nasset/SK Sam.mesh.nasset/SK Sam Zombie Characters.meshskin.nasset",
+        "dependencies": [
+            "0780a5c3-4b84-5516-6d61-675d932e5027",
+            "a32670be-0b3f-3301-ed92-c43d97c48802",
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
+        ]
     },
     "49efdf5f-70a4-64a3-58fb-2f94ffcbd0b4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -340,6 +434,10 @@
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "553354ba-a502-1a43-827f-aeb641ef1aee": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Human/SK_Shaun.scene.nasset/SK_Shaun.scene.nasset"
     },
     "5d3c442d-0dbd-2126-a416-37dd925457fc": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -403,6 +501,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7910b800-a38e-bdc7-8e51-201a38514ae0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Human/SK_Sam.scene.nasset/SK_Sam.scene.nasset"
+    },
+    "7c6b1e19-dac4-d9fe-95d6-4e0033b87cd4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Human/SK_Matt.scene.nasset/SK_Matt.scene.nasset"
+    },
     "802304c8-d102-5bf3-0d7b-d433960a208d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -453,6 +559,14 @@
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "41b9423f-95b8-82e3-b24a-8d94a09ff2e0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8bae7d67-feda-acbf-9852-d01eb1a1ed92": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Human/Material Instances/Zombie Characters.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "015ee02d-07eb-2033-52ec-c09494163a0a"
         ]
     },
     "8df2ee72-93df-4b8d-2879-7dadda53885b": {
@@ -620,6 +734,11 @@
             "757a802e-da41-8882-4b66-020254015297"
         ]
     },
+    "a32670be-0b3f-3301-ed92-c43d97c48802": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Human/SK_Sam.scene.nasset/SK Sam.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "a57c9089-0403-a17a-c579-28307fde0e07": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -631,6 +750,13 @@
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "0c48247e-8170-ce72-eb01-5d82f25fbaf7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a63178cb-b576-d443-ff69-ad0d0b57a41d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Human/SK_Sam.scene.nasset/SK Sam.mesh.nasset/SK Sam.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "abfddccd-79d7-2f6e-b187-4100b439707c": {
@@ -711,6 +837,18 @@
         "dependencies": [
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "3b609081-4ebb-dc1d-0370-326f3c5ae57d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c4233d34-6799-53ac-dbb6-f8f34d9fd6ea": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Human/SK_Lis.scene.nasset/SK Lis.mesh.nasset/SK Lis Zombie Characters.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -803,6 +941,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d8b3d127-50cd-bf9d-3e45-fcbb566e217a": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Human/SK_Lis.scene.nasset/SK Lis.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "d90a4431-4c07-4c59-02ed-61a3f4665316": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Human/SK_Shaun.scene.nasset/SK Shaun.mesh.nasset/SK Shaun.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "e11aa615-b338-f379-f83f-15bfef2a4ee7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -858,6 +1008,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e920dd56-81a5-bb09-68a0-1f5624ce1e88": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Human/SK_Lis.scene.nasset/SK_Lis.scene.nasset"
+    },
     "eaa3f120-cf4b-55af-6e50-e71c0b7a1e3b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -880,6 +1034,16 @@
         "dependencies": [
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ee071af8-c3c2-7099-ede8-7a62bbeba6ae": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Human/SK_Shaun.scene.nasset/SK Shaun.mesh.nasset/SK Shaun Zombie Characters.meshskin.nasset",
+        "dependencies": [
+            "4661de3a-1497-7332-59de-306fc1e6b1ff",
+            "1bdcf08d-663a-e6d2-609b-0eb8d1a7faae",
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
         ]
     },
     "ef50c8e8-d161-a8b7-1a81-d713e9511627": {
