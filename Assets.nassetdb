@@ -1,0 +1,932 @@
+{
+    "0171570e-6b73-a3af-707d-4f8c2177b4f9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Light 2.mesh.nasset/Traffic Light 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "abfddccd-79d7-2f6e-b187-4100b439707c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "02ec6570-587e-9a81-f00c-5ea7881bb4a6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street Straight Crack2.mesh.nasset/Street Straight Crack2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "5d3c442d-0dbd-2126-a416-37dd925457fc",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0c48247e-8170-ce72-eb01-5d82f25fbaf7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street Straight Crack 1.mesh.nasset/Street Straight Crack 1 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "0ebbbb9e-6401-a352-b0d7-2cd2c227d35b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Town Sign.mesh.nasset/Town Sign.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "1ea612ac-3314-c1ed-42c7-6787834661fc",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "10cdf1b0-5739-0b77-56ca-3b69a00e08e7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Barrel.mesh.nasset/Barrel Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "13cdefb2-0dcb-73c6-3679-3a0c77613ffa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Container Green.mesh.nasset/Container Green Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "13cee877-4161-e007-e4f1-d46520fccb41": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Wheels Stack.mesh.nasset/Wheels Stack Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "13e25d9d-8740-cb4e-ec33-137b7f3efce8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Plastic Barrier.mesh.nasset/Plastic Barrier Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "141c66ae-83b0-0b4b-222e-0820978a9c94": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street T.mesh.nasset/Street T Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "162aaf99-de9b-db62-1cda-b4a239b0cd7c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street Straight.mesh.nasset/Street Straight Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "163d07b6-c43b-5ded-5b0a-8782f8a773bd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Trash Bag 1.mesh.nasset/Trash Bag 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "4a1d61f4-581f-033e-7247-85d2ec03940e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "19786901-50ee-7f5d-1ad9-27f6f912386a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Cone 2.mesh.nasset/Traffic Cone 2 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1a5ce6b9-d710-0fb7-096d-47f266eca308": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Blood 3.mesh.nasset/Blood 3 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1d9e0314-ba4c-146b-a24f-0b358d849bfc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Fire Hydrant.mesh.nasset/Fire Hydrant.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "97aebd04-bbd6-4e11-0fa4-b759df999a00",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1e588fd7-3887-858d-da44-ebbf1ea458aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Chest Special.mesh.nasset/Chest Special.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "4a444677-4342-5ba1-1ae3-6c03a6aa219f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1ea612ac-3314-c1ed-42c7-6787834661fc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Town Sign.mesh.nasset/Town Sign Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "34e21631-27da-3824-6376-62465925de24": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Light 1.mesh.nasset/Traffic Light 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "4be4660d-ebd8-2237-9e13-00d4ca67c991",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "355c7306-a88a-a1a4-4e74-7d8ca23e9230": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Streetlights.mesh.nasset/Streetlights Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "35d0427a-8da9-3fb6-081b-db97305f9c91": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Pallet.mesh.nasset/Pallet.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "9914b88e-a80d-1563-f730-ebbcec0a3be5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "35f24356-fd15-32cf-2fa2-c8981c82e66f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Container Red.mesh.nasset/Container Red.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "b0ffbb55-9286-682b-b70f-88604745af58",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3b609081-4ebb-dc1d-0370-326f3c5ae57d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Trash Bag 2.mesh.nasset/Trash Bag 2 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "40c84463-28fd-9131-bb3b-31f8a3e436c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Cone 2.mesh.nasset/Traffic Cone 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "19786901-50ee-7f5d-1ad9-27f6f912386a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "41b9423f-95b8-82e3-b24a-8d94a09ff2e0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Barrier 2.mesh.nasset/Traffic Barrier 2 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "42ab1b79-f48e-4432-b756-a23996aa1d35": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Zom Bae Assets"
+    },
+    "49efdf5f-70a4-64a3-58fb-2f94ffcbd0b4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Streetlights.mesh.nasset/Streetlights.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "355c7306-a88a-a1a4-4e74-7d8ca23e9230",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "b5da7158-209c-890c-a899-7f829cb64bc2",
+            "9681b24a-f0ce-562d-0ebb-114df4c5d66d"
+        ]
+    },
+    "4a1d61f4-581f-033e-7247-85d2ec03940e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Trash Bag 1.mesh.nasset/Trash Bag 1 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4a444677-4342-5ba1-1ae3-6c03a6aa219f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Chest Special.mesh.nasset/Chest Special Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "4be4660d-ebd8-2237-9e13-00d4ca67c991": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Light 1.mesh.nasset/Traffic Light 1 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5d3c442d-0dbd-2126-a416-37dd925457fc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street Straight Crack2.mesh.nasset/Street Straight Crack2 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "62fa2135-321b-61f7-7915-05b230484bb3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Pallet Broken.mesh.nasset/Pallet Broken.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "d55a06b5-d9f3-d5d3-17ac-c19d1687b9a1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6d51e2ad-18d5-6f06-a500-9b318a4839f6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street 4 Way.mesh.nasset/Street 4 Way Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "72f38f49-301b-d3ab-264d-dacd4505508b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Cone 1.mesh.nasset/Traffic Cone 1 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "757a802e-da41-8882-4b66-020254015297": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Wheels Stack.mesh.nasset/Wheels Stack.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "13cee877-4161-e007-e4f1-d46520fccb41",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "802304c8-d102-5bf3-0d7b-d433960a208d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street 4 Way.mesh.nasset/Street 4 Way.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "6d51e2ad-18d5-6f06-a500-9b318a4839f6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "84df3ed3-a2d2-8cd4-38ce-a10188bbc6e5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street T.mesh.nasset/Street T.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "141c66ae-83b0-0b4b-222e-0820978a9c94",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "863f6df5-803f-df74-1b69-bf8f4699c107": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Plastic Barrier.mesh.nasset/Plastic Barrier.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "13e25d9d-8740-cb4e-ec33-137b7f3efce8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "87e6401b-7bd0-745c-c801-e6e2462db0b4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Barrier 2.mesh.nasset/Traffic Barrier 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "41b9423f-95b8-82e3-b24a-8d94a09ff2e0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8df2ee72-93df-4b8d-2879-7dadda53885b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Pipes.mesh.nasset/Pipes.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "b8ac511d-c9c2-27ae-f56a-9bc6d5b8753b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8e060e44-72b7-ec04-381c-5f5d3256b750": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Blood 3.mesh.nasset/Blood 3.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "1a5ce6b9-d710-0fb7-096d-47f266eca308",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9157faa3-1aa4-a24b-ab15-e8cfd1c17821": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Barrier 1.mesh.nasset/Traffic Barrier 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "e11aa615-b338-f379-f83f-15bfef2a4ee7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "92482287-6738-df8a-50fd-3589c6ca9b81": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Blood 1.mesh.nasset/Blood 1 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9681b24a-f0ce-562d-0ebb-114df4c5d66d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Streetlights.mesh.nasset/Streetlights Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b5da7158-209c-890c-a899-7f829cb64bc2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "97aebd04-bbd6-4e11-0fa4-b759df999a00": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Fire Hydrant.mesh.nasset/Fire Hydrant Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9914b88e-a80d-1563-f730-ebbcec0a3be5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Pallet.mesh.nasset/Pallet Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9a5d7710-36da-f197-88c8-e29b937a5b78": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Chest.mesh.nasset/Chest Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9d1e6d98-2db9-0473-5ebf-228cf0031308": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Couch.mesh.nasset/Couch Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "9e7c5149-ad9e-0750-1174-1c9585d4a8ef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Chest.mesh.nasset/Chest.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "9a5d7710-36da-f197-88c8-e29b937a5b78",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a1f27f09-1da3-5697-b3ce-1ece0834ee98": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/SC_Zom_Bae.scene.nasset",
+        "dependencies": [
+            "d8479292-8560-8e6d-9888-346cdf41eb4c",
+            "d34c1478-39eb-2a5a-554e-7745754efeb9",
+            "d27510d7-7a5c-720a-4530-83a458fde9c1",
+            "8e060e44-72b7-ec04-381c-5f5d3256b750",
+            "9e7c5149-ad9e-0750-1174-1c9585d4a8ef",
+            "1e588fd7-3887-858d-da44-ebbf1ea458aa",
+            "d12f7424-1ba0-7d5c-3dd9-4e479193bd23",
+            "e8fd9cb6-02a9-531a-ba60-386aa75ce004",
+            "35f24356-fd15-32cf-2fa2-c8981c82e66f",
+            "f33a398d-d139-e1bb-f5dc-46cdc489d4b2",
+            "1d9e0314-ba4c-146b-a24f-0b358d849bfc",
+            "35d0427a-8da9-3fb6-081b-db97305f9c91",
+            "62fa2135-321b-61f7-7915-05b230484bb3",
+            "8df2ee72-93df-4b8d-2879-7dadda53885b",
+            "863f6df5-803f-df74-1b69-bf8f4699c107",
+            "802304c8-d102-5bf3-0d7b-d433960a208d",
+            "e69d691f-6fe9-a481-d83f-2a3f3e457aef",
+            "a57c9089-0403-a17a-c579-28307fde0e07",
+            "02ec6570-587e-9a81-f00c-5ea7881bb4a6",
+            "84df3ed3-a2d2-8cd4-38ce-a10188bbc6e5",
+            "fd000618-7287-21fa-ee81-a2150f013000",
+            "49efdf5f-70a4-64a3-58fb-2f94ffcbd0b4",
+            "0ebbbb9e-6401-a352-b0d7-2cd2c227d35b",
+            "9157faa3-1aa4-a24b-ab15-e8cfd1c17821",
+            "87e6401b-7bd0-745c-c801-e6e2462db0b4",
+            "d631e898-c5a8-4408-7cac-3009cdbee344",
+            "40c84463-28fd-9131-bb3b-31f8a3e436c5",
+            "34e21631-27da-3824-6376-62465925de24",
+            "0171570e-6b73-a3af-707d-4f8c2177b4f9",
+            "163d07b6-c43b-5ded-5b0a-8782f8a773bd",
+            "c181e131-25cd-1982-fb5b-fa1a5cb7cb49",
+            "e8e82dac-702d-a46c-845d-537c03053c42",
+            "bc52e4b3-44f9-7161-a3c9-831200501039",
+            "757a802e-da41-8882-4b66-020254015297"
+        ]
+    },
+    "a57c9089-0403-a17a-c579-28307fde0e07": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street Straight Crack 1.mesh.nasset/Street Straight Crack 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "0c48247e-8170-ce72-eb01-5d82f25fbaf7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "abfddccd-79d7-2f6e-b187-4100b439707c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Light 2.mesh.nasset/Traffic Light 2 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "aed83502-f12d-1156-dba4-781b359dd2d7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Wheel.mesh.nasset/Wheel Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b0ffbb55-9286-682b-b70f-88604745af58": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Container Red.mesh.nasset/Container Red Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b5da7158-209c-890c-a899-7f829cb64bc2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "b8ac511d-c9c2-27ae-f56a-9bc6d5b8753b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Pipes.mesh.nasset/Pipes Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bc52e4b3-44f9-7161-a3c9-831200501039": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Wheel.mesh.nasset/Wheel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "aed83502-f12d-1156-dba4-781b359dd2d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c181e131-25cd-1982-fb5b-fa1a5cb7cb49": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Trash Bag 2.mesh.nasset/Trash Bag 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "3b609081-4ebb-dc1d-0370-326f3c5ae57d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c7543fe7-fd9c-56d9-7a3b-89eaf58a18ea": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Cinder Block.mesh.nasset/Cinder Block Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d12f7424-1ba0-7d5c-3dd9-4e479193bd23": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Cinder Block.mesh.nasset/Cinder Block.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "c7543fe7-fd9c-56d9-7a3b-89eaf58a18ea",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d27510d7-7a5c-720a-4530-83a458fde9c1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Blood 2.mesh.nasset/Blood 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "eb95ddad-83dc-ef2b-94e7-a1ae3280ffba",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d34c1478-39eb-2a5a-554e-7745754efeb9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Blood 1.mesh.nasset/Blood 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "92482287-6738-df8a-50fd-3589c6ca9b81",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d55a06b5-d9f3-d5d3-17ac-c19d1687b9a1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Pallet Broken.mesh.nasset/Pallet Broken Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d631e898-c5a8-4408-7cac-3009cdbee344": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Cone 1.mesh.nasset/Traffic Cone 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "72f38f49-301b-d3ab-264d-dacd4505508b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d8479292-8560-8e6d-9888-346cdf41eb4c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Barrel.mesh.nasset/Barrel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "10cdf1b0-5739-0b77-56ca-3b69a00e08e7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e11aa615-b338-f379-f83f-15bfef2a4ee7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Traffic Barrier 1.mesh.nasset/Traffic Barrier 1 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e27778e3-0b91-c72f-f905-fd3a0cb34434": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/Textures/T_Zombie_Atlas_D.tex.nasset"
+    },
+    "e69d691f-6fe9-a481-d83f-2a3f3e457aef": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street Straight.mesh.nasset/Street Straight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "162aaf99-de9b-db62-1cda-b4a239b0cd7c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e8e82dac-702d-a46c-845d-537c03053c42": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Water Tower.mesh.nasset/Water Tower.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "eaa3f120-cf4b-55af-6e50-e71c0b7a1e3b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e8fd9cb6-02a9-531a-ba60-386aa75ce004": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Container Green.mesh.nasset/Container Green.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "13cdefb2-0dcb-73c6-3679-3a0c77613ffa",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "eaa3f120-cf4b-55af-6e50-e71c0b7a1e3b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Water Tower.mesh.nasset/Water Tower Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "eb95ddad-83dc-ef2b-94e7-a1ae3280ffba": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Blood 2.mesh.nasset/Blood 2 Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ef50c8e8-d161-a8b7-1a81-d713e9511627": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street Turn.mesh.nasset/Street Turn Zom Bae.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f33a398d-d139-e1bb-f5dc-46cdc489d4b2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Couch.mesh.nasset/Couch.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "9d1e6d98-2db9-0473-5ebf-228cf0031308",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "f980bdfd-20b1-b20e-c6bc-620ebf860e53": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/Zom Bae.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "e27778e3-0b91-c72f-f905-fd3a0cb34434"
+        ]
+    },
+    "fd000618-7287-21fa-ee81-a2150f013000": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Zom_Bae.scene.nasset/Street Turn.mesh.nasset/Street Turn.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "ef50c8e8-d161-a8b7-1a81-d713e9511627",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "guid": "c2f6bc1e-3d83-236b-d980-c9df46022579"
+}
