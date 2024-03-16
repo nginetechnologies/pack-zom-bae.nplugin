@@ -1,0 +1,160 @@
+{
+    "guid": "a36e7476-c81d-7347-2bbc-c910a9ee42a3",
+    "source": "../SC_Zom_Bae_Weapons.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "3268e944-9c55-3269-e940-f484e511222e",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Zom Bae Weapons"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d4bf5a99-97eb-8d8d-8e2f-b632314758a2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Axe"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "605e0546-ac34-e6a4-ed59-e4990e080585"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1c40056f-39ea-778e-a71b-b139fbb364a2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bat Barbed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d2c44437-12ac-706e-fb56-4165e9509e9a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "82512ba7-ca56-faa2-490a-2b78a028dc3f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bat Saw"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1d60960f-5b70-1965-e69b-e1bada207b70"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "17e9a6a0-8e0f-0357-7d0b-619262c18696",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Guitar"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cad2106a-f18f-8e5d-873f-1989e8f402b2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8775d7ba-e52d-afb0-217e-b30b69e0a90c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Knife"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4840f086-64c6-a873-5852-24ec333bb8a7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4f03ddc3-35c4-f8f4-2202-a90542ac191a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pistol"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "593e12d0-fa83-9255-7519-6fdb038ea90a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0dfe1278-621e-0af5-a32e-cfa689dbf2e9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rifle"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bdb3343f-8dd9-1b07-0980-1ea6301d0169"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d4180c15-6903-8173-45f5-3da7bcc4cb06",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shotgun"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b9b16e76-7ab6-5fd2-d411-2fb778706822"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "798fdd88-52f6-57f1-e4f0-2efd3272df9e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SMG"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d375de6e-8df6-a448-34e7-a6e91929c682"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "882ebdb1-b5d7-c3b9-5f68-cd52fc26a38c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spear"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "26e1a0a8-d33e-414a-fcdf-65e911c63d11"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a36e7476-c81d-7347-2bbc-c910a9ee42a3"
+    },
+    "dependencies": [
+        "605e0546-ac34-e6a4-ed59-e4990e080585",
+        "d2c44437-12ac-706e-fb56-4165e9509e9a",
+        "1d60960f-5b70-1965-e69b-e1bada207b70",
+        "cad2106a-f18f-8e5d-873f-1989e8f402b2",
+        "4840f086-64c6-a873-5852-24ec333bb8a7",
+        "593e12d0-fa83-9255-7519-6fdb038ea90a",
+        "bdb3343f-8dd9-1b07-0980-1ea6301d0169",
+        "b9b16e76-7ab6-5fd2-d411-2fb778706822",
+        "d375de6e-8df6-a448-34e7-a6e91929c682",
+        "26e1a0a8-d33e-414a-fcdf-65e911c63d11"
+    ]
+}

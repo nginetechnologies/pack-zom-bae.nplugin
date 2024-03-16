@@ -161,6 +161,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "166d89a4-488f-a8cd-522a-6b430eeb2d4c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dogs/SK_German_Shepherd.scene.nasset/SK German Shepherd.mesh.nasset/SK German Shepherd Zombie Dogs.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fccb2935-b386-ea1f-1637-e745c81192f5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "19786901-50ee-7f5d-1ad9-27f6f912386a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -196,6 +208,13 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Human/SK_Shaun.scene.nasset/SK Shaun.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "1d60960f-5b70-1965-e69b-e1bada207b70": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Bat Saw.mesh.nasset/Bat Saw.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "1d9e0314-ba4c-146b-a24f-0b358d849bfc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -235,6 +254,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1ffc405e-8c1e-2692-c0f5-35e375e5ff21": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/SK_Pug.scene.nasset/SK Pug.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "25e4aa71-b875-577c-272c-b4a8899b97ba": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -245,6 +269,13 @@
         "dependencies": [
             "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "26e1a0a8-d33e-414a-fcdf-65e911c63d11": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Spear.mesh.nasset/Spear.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "2c31ef34-99ed-c171-3072-215bcd9c5010": {
@@ -362,6 +393,22 @@
         "path": "Package.nplugin",
         "name": "Zom Bae Assets"
     },
+    "45259052-d3dd-07ab-f171-f67329a4761d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Dogs/SK_Pug.scene.nasset/SK_Pug.scene.nasset"
+    },
+    "46243172-6608-1c35-51c5-94c0a5a2b4ae": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Pistol.mesh.nasset/Pistol Zom Bae Weapons.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5151b50b-627d-27b0-7e2c-1ada12cebf16",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "4661de3a-1497-7332-59de-306fc1e6b1ff": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -374,6 +421,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "46fabc68-548d-1380-b958-b4fbad66fbe3": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dogs/SK_Pug.scene.nasset/SK Pug.mesh.nasset/SK Pug Zombie Dogs.meshskin.nasset",
+        "dependencies": [
+            "d27d2392-88ee-4948-ea4f-a192cccd3192",
+            "1ffc405e-8c1e-2692-c0f5-35e375e5ff21",
+            "fccb2935-b386-ea1f-1637-e745c81192f5"
+        ]
+    },
     "47dd4928-322b-8de3-ac8e-ca39791613f6": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -382,6 +439,13 @@
             "0780a5c3-4b84-5516-6d61-675d932e5027",
             "a32670be-0b3f-3301-ed92-c43d97c48802",
             "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
+        ]
+    },
+    "4840f086-64c6-a873-5852-24ec333bb8a7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Knife.mesh.nasset/Knife.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "49efdf5f-70a4-64a3-58fb-2f94ffcbd0b4": {
@@ -435,9 +499,24 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5151b50b-627d-27b0-7e2c-1ada12cebf16": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Weapons/Material Instances/Zom Bae Weapons.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "fa924b18-6f37-80a3-0907-f17979dc54fa"
+        ]
+    },
     "553354ba-a502-1a43-827f-aeb641ef1aee": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "path": "Assets/Characters/Human/SK_Shaun.scene.nasset/SK_Shaun.scene.nasset"
+    },
+    "593e12d0-fa83-9255-7519-6fdb038ea90a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Pistol.mesh.nasset/Pistol.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "5d3c442d-0dbd-2126-a416-37dd925457fc": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -449,6 +528,13 @@
         "dependencies": [
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "605e0546-ac34-e6a4-ed59-e4990e080585": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Axe.mesh.nasset/Axe.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "62fa2135-321b-61f7-7915-05b230484bb3": {
@@ -464,6 +550,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "64b15576-f482-039b-6ab2-2fe148e42768": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/SMG.mesh.nasset/SMG Zom Bae Weapons.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5151b50b-627d-27b0-7e2c-1ada12cebf16",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6770038d-64c5-5db8-7439-d1cc3a4922aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Dogs/SK_German_Shepherd.scene.nasset/SK German Shepherd.mesh.nasset/SK German Shepherd.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "6d51e2ad-18d5-6f06-a500-9b318a4839f6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -473,6 +578,23 @@
         ],
         "dependencies": [
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6def467e-bf81-d7dd-ce5e-5e2d326475e4": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/SK_German_Shepherd.scene.nasset/SK German Shepherd.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "724bf1f1-2fff-d18d-d12f-f6cb3d53a4e6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Knife.mesh.nasset/Knife Zom Bae Weapons.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5151b50b-627d-27b0-7e2c-1ada12cebf16",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -501,6 +623,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "759169fd-2708-aea6-083b-12dd0722ad3b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Dogs/SK_Pug.scene.nasset/SK Pug.mesh.nasset/SK Pug.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "7910b800-a38e-bdc7-8e51-201a38514ae0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "path": "Assets/Characters/Human/SK_Sam.scene.nasset/SK_Sam.scene.nasset"
@@ -508,6 +637,28 @@
     "7c6b1e19-dac4-d9fe-95d6-4e0033b87cd4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "path": "Assets/Characters/Human/SK_Matt.scene.nasset/SK_Matt.scene.nasset"
+    },
+    "7da9100a-00fb-326f-39ad-17c3d5c2ac1a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Bat Barbed.mesh.nasset/Bat Barbed Zom Bae Weapons.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5151b50b-627d-27b0-7e2c-1ada12cebf16",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "7ed975ee-cb2c-510a-0d79-cfa4f485199d": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Dogs/SK_German_Shepherd.scene.nasset/SK German Shepherd.mesh.nasset/SK German Shepherd Zombie Dogs.meshskin.nasset",
+        "dependencies": [
+            "166d89a4-488f-a8cd-522a-6b430eeb2d4c",
+            "6def467e-bf81-d7dd-ce5e-5e2d326475e4",
+            "fccb2935-b386-ea1f-1637-e745c81192f5"
+        ]
     },
     "802304c8-d102-5bf3-0d7b-d433960a208d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -608,6 +759,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "91e8380e-e50e-053a-13d3-6539395baa7f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Dogs/Textures/T_Zombie_Atlas_D.tex.nasset"
+    },
     "92482287-6738-df8a-50fd-3589c6ca9b81": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -617,6 +772,18 @@
         ],
         "dependencies": [
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "95d953bb-56cc-1558-ff32-030d7f1c10fe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Rifle.mesh.nasset/Rifle Zom Bae Weapons.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5151b50b-627d-27b0-7e2c-1ada12cebf16",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -641,6 +808,18 @@
         ],
         "dependencies": [
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "97d93cda-47ac-25b8-e7cb-f24f442b3e0a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Axe.mesh.nasset/Axe Zom Bae Weapons.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5151b50b-627d-27b0-7e2c-1ada12cebf16",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -693,6 +872,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a03d1ca0-c22b-9a98-d52d-27687a3236c0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Guitar.mesh.nasset/Guitar Zom Bae Weapons.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5151b50b-627d-27b0-7e2c-1ada12cebf16",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "a1f27f09-1da3-5697-b3ce-1ece0834ee98": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -738,6 +929,14 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Human/SK_Sam.scene.nasset/SK Sam.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "a36e7476-c81d-7347-2bbc-c910a9ee42a3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/SC_Zom_Bae_Weapons.scene.nasset"
+    },
+    "a3ecfe12-2745-5393-497a-ec1707355684": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Dogs/SK_German_Shepherd.scene.nasset/SK_German_Shepherd.scene.nasset"
     },
     "a57c9089-0403-a17a-c579-28307fde0e07": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -814,6 +1013,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b9b16e76-7ab6-5fd2-d411-2fb778706822": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Shotgun.mesh.nasset/Shotgun.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "bc52e4b3-44f9-7161-a3c9-831200501039": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -824,6 +1030,25 @@
         "dependencies": [
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "aed83502-f12d-1156-dba4-781b359dd2d7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bdb3343f-8dd9-1b07-0980-1ea6301d0169": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Rifle.mesh.nasset/Rifle.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "beb38cff-108f-3422-08b5-8c7b7b406a8f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Shotgun.mesh.nasset/Shotgun Zom Bae Weapons.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5151b50b-627d-27b0-7e2c-1ada12cebf16",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -864,6 +1089,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cad2106a-f18f-8e5d-873f-1989e8f402b2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Guitar.mesh.nasset/Guitar.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "d12f7424-1ba0-7d5c-3dd9-4e479193bd23": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -890,6 +1122,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d27d2392-88ee-4948-ea4f-a192cccd3192": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Dogs/SK_Pug.scene.nasset/SK Pug.mesh.nasset/SK Pug Zombie Dogs.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fccb2935-b386-ea1f-1637-e745c81192f5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d2c44437-12ac-706e-fb56-4165e9509e9a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Bat Barbed.mesh.nasset/Bat Barbed.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "d34c1478-39eb-2a5a-554e-7745754efeb9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -900,6 +1151,25 @@
         "dependencies": [
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "92482287-6738-df8a-50fd-3589c6ca9b81",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d375de6e-8df6-a448-34e7-a6e91929c682": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/SMG.mesh.nasset/SMG.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "d3d052c9-2f03-3825-72fc-254dd392477b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Spear.mesh.nasset/Spear Zom Bae Weapons.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5151b50b-627d-27b0-7e2c-1ada12cebf16",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1077,6 +1347,30 @@
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "e27778e3-0b91-c72f-f905-fd3a0cb34434"
+        ]
+    },
+    "fa924b18-6f37-80a3-0907-f17979dc54fa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Weapons/Textures/T_Zombie_Atlas_D.tex.nasset"
+    },
+    "fb3c4b2a-e0e0-5694-9f38-91ba141eb344": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Bat Saw.mesh.nasset/Bat Saw Zom Bae Weapons.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5151b50b-627d-27b0-7e2c-1ada12cebf16",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fccb2935-b386-ea1f-1637-e745c81192f5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Dogs/Material Instances/Zombie Dogs.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "91e8380e-e50e-053a-13d3-6539395baa7f"
         ]
     },
     "fd000618-7287-21fa-ee81-a2150f013000": {

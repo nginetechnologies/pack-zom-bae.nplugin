@@ -1,0 +1,75 @@
+{
+    "guid": "759169fd-2708-aea6-083b-12dd0722ad3b",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "771b0fb5-4b6c-4341-5b5c-88118f516007",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "c5329260-c903-d027-3e57-6639cf7b2247",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Pug Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "cbe46b69-bfb3-0468-198a-9cdc68b5d845",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "fa606cde-8c6b-553d-8686-1a293ab2657d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Pug Zombie Dogs"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d27d2392-88ee-4948-ea4f-a192cccd3192",
+                                "material_instance": "fccb2935-b386-ea1f-1637-e745c81192f5"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "46fabc68-548d-1380-b958-b4fbad66fbe3"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "759169fd-2708-aea6-083b-12dd0722ad3b"
+    },
+    "dependencies": [
+        "fccb2935-b386-ea1f-1637-e745c81192f5",
+        "d27d2392-88ee-4948-ea4f-a192cccd3192",
+        "46fabc68-548d-1380-b958-b4fbad66fbe3",
+        "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
+    ]
+}
