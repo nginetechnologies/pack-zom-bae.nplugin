@@ -1,5 +1,5 @@
 {
-    "guid": "ad1b4583-8b4c-48d8-a1e3-6f41b6e7708a",
+    "guid": "f992f043-2017-41b1-b09f-efd96302c75c",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "2f7e7732-757c-4541-bac8-170e7f1796f0",
     "data_components": [
@@ -145,6 +145,6 @@
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "ad1b4583-8b4c-48d8-a1e3-6f41b6e7708a"
+        "scene": "f992f043-2017-41b1-b09f-efd96302c75c"
     }
 }

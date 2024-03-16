@@ -1,5 +1,5 @@
 {
-    "guid": "5a055b43-6512-4142-8208-4589dfc91f29",
+    "guid": "03e0a905-ff95-4f68-a70c-21f0f41fae62",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "683fbee3-6084-47b6-9e2a-9f7a685abbf8",
     "data_components": [
@@ -135,6 +135,6 @@
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "5a055b43-6512-4142-8208-4589dfc91f29"
+        "scene": "03e0a905-ff95-4f68-a70c-21f0f41fae62"
     }
 }

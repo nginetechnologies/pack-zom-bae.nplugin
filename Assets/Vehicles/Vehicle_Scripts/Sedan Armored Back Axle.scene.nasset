@@ -1,5 +1,5 @@
 {
-    "guid": "5a055b43-6512-4142-8208-4589dfc91f29",
+    "guid": "d94e23ec-5efb-4e38-a0a4-d5fccdd07794",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "683fbee3-6084-47b6-9e2a-9f7a685abbf8",
     "data_components": [
@@ -127,7 +127,7 @@
                         }
                     ],
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "55d291f8-863c-4385-b1bb-a56d15c9bd5e"
+                        "scene": "d94e23ec-5efb-4e38-a0a4-d5fccdd07794"
                     }
                 }
             ]

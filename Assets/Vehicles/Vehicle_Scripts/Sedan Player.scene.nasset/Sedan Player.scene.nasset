@@ -1,5 +1,5 @@
 {
-    "guid": "23b110dd-9f1b-492d-8085-efc782cc4e68",
+    "guid": "7ae1d70d-6ae0-41b2-bf15-9d87455981b8",
     "type_version": 1,
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "6ac3539a-a626-4ad7-8579-d9af939b68b1",
@@ -214,5 +214,5 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "23b110dd-9f1b-492d-8085-efc782cc4e68"
     },
-    "thumbnailGuid": "3a2aab48-ea5b-4a4f-8828-64781ed4429d"
+    "thumbnailGuid": "7ae1d70d-6ae0-41b2-bf15-9d87455981b8"
 }
