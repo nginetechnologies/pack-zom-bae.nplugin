@@ -88,6 +88,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "12f6392b-6fe7-de85-0b5d-c39fad093b0f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Vehicles/Pickup_Truck_Body.scene.nasset/Pickup Truck Body.mesh.nasset/Pickup Truck Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "13cdefb2-0dcb-73c6-3679-3a0c77613ffa": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -259,6 +266,13 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Dogs/SK_Pug.scene.nasset/SK Pug.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
+    "23ad8c97-91e6-0e6c-fd3b-0286ac0e52cf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Vehicles/Truck_Body.scene.nasset/Truck Body.mesh.nasset/Truck Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "25e4aa71-b875-577c-272c-b4a8899b97ba": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -270,6 +284,10 @@
             "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "2603e9ef-b272-8f3b-8103-e402d5adf76f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Vehicles/Sedan_Armored_Body.scene.nasset/Sedan_Armored_Body.scene.nasset"
     },
     "26e1a0a8-d33e-414a-fcdf-65e911c63d11": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -292,6 +310,13 @@
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/Human/SK_Matt.scene.nasset/SK Matt.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "34a47d39-4c6d-dabd-679e-f7e64471448d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Vehicles/Pickup_Truck_Armored_Body.scene.nasset/Pickup Truck Armored Body.mesh.nasset/Pickup Truck Armored Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "34e21631-27da-3824-6376-62465925de24": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -344,6 +369,33 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "35f2a15c-ceb8-69f0-a028-52624f8cca5a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Vehicles/Material Instances/Zom Bae Vehicles.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "7d6ec761-799f-ca38-46d6-19ef4fedc349"
+        ]
+    },
+    "38402fb2-9452-f2f7-e7d5-cff4357f80f7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Truck_Armored_Body.scene.nasset/Truck Armored Body.mesh.nasset/Truck Armored Body Vehicle Brake Lights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6b082b6f-4329-1781-fb14-01f83cbd694a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3955c55a-5490-312d-b823-7d69a9eec003": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Vehicles/Sedan_Body.scene.nasset/Sedan Body.mesh.nasset/Sedan Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "3b609081-4ebb-dc1d-0370-326f3c5ae57d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -392,6 +444,10 @@
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin",
         "name": "Zom Bae Assets"
+    },
+    "4459f907-d00b-9639-caca-1f0dcddca2df": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Vehicles/Pickup_Truck_Body.scene.nasset/Pickup_Truck_Body.scene.nasset"
     },
     "45259052-d3dd-07ab-f171-f67329a4761d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -463,6 +519,18 @@
             "9681b24a-f0ce-562d-0ebb-114df4c5d66d"
         ]
     },
+    "49f01adc-f4a1-baad-e72c-e456a619c3cb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Truck_Armored_Body.scene.nasset/Truck Armored Body.mesh.nasset/Truck Armored Body Vehicle Headlights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e01b4a73-af4b-d735-c746-633653bdeca5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "4a1d61f4-581f-033e-7247-85d2ec03940e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -507,6 +575,27 @@
             "fa924b18-6f37-80a3-0907-f17979dc54fa"
         ]
     },
+    "547d90f5-7b93-d34e-ea5c-efbad62c6f62": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Vehicle_Wheel.scene.nasset/Vehicle_Wheel.mesh.nasset",
+        "dependencies": [
+            "35f2a15c-ceb8-69f0-a028-52624f8cca5a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "54f01b03-1eda-4269-39ce-7c5ff86fee1a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Sedan_Armored_Body.scene.nasset/Sedan Armored Body.mesh.nasset/Sedan Armored Body Vehicle Brake Lights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6b082b6f-4329-1781-fb14-01f83cbd694a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "553354ba-a502-1a43-827f-aeb641ef1aee": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "path": "Assets/Characters/Human/SK_Shaun.scene.nasset/SK_Shaun.scene.nasset"
@@ -537,6 +626,18 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "61684638-0ab0-680a-96d4-5c6ae674bb60": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Truck_Armored_Body.scene.nasset/Truck Armored Body.mesh.nasset/Truck Armored Body Zom Bae Vehicles.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "35f2a15c-ceb8-69f0-a028-52624f8cca5a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "62fa2135-321b-61f7-7915-05b230484bb3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -549,6 +650,10 @@
             "d55a06b5-d9f3-d5d3-17ac-c19d1687b9a1",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "63b18354-9ac9-2678-9af1-cc8a7a59e6d8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Vehicles/Pickup_Truck_Armored_Body.scene.nasset/Pickup_Truck_Armored_Body.scene.nasset"
     },
     "64b15576-f482-039b-6ab2-2fe148e42768": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -567,6 +672,49 @@
         "path": "Assets/Characters/Dogs/SK_German_Shepherd.scene.nasset/SK German Shepherd.mesh.nasset/SK German Shepherd.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "681983ed-8cdd-a4e4-9dbc-ea4fd7bcf3e8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Pickup_Truck_Body.scene.nasset/Pickup Truck Body.mesh.nasset/Pickup Truck Body Vehicle Brake Lights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "928fe82e-894f-b87b-3143-ffc36ebeb247",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "68548ced-fdf0-3d04-e6db-6058d10d5641": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Sedan_Body.scene.nasset/Sedan Body.mesh.nasset/Sedan Body Zom Bae Vehicles.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "35f2a15c-ceb8-69f0-a028-52624f8cca5a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6b082b6f-4329-1781-fb14-01f83cbd694a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Vehicles/Material Instances/Vehicle Brake Lights.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "6bc29fbe-506f-5a05-e16a-f66a59e1e38a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Pickup_Truck_Body.scene.nasset/Pickup Truck Body.mesh.nasset/Pickup Truck Body Zom Bae Vehicles.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "35f2a15c-ceb8-69f0-a028-52624f8cca5a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "6d51e2ad-18d5-6f06-a500-9b318a4839f6": {
@@ -630,13 +778,28 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "77470d30-1fb1-95a8-d4db-96541db38f37": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Vehicles/Material Instances/Vehicle Headlights.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "7910b800-a38e-bdc7-8e51-201a38514ae0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "path": "Assets/Characters/Human/SK_Sam.scene.nasset/SK_Sam.scene.nasset"
     },
+    "7a6bc90d-5fe0-fd47-fded-7c681213374f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Vehicles/Vehicle_Wheel.scene.nasset/Vehicle_Wheel.scene.nasset"
+    },
     "7c6b1e19-dac4-d9fe-95d6-4e0033b87cd4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "path": "Assets/Characters/Human/SK_Matt.scene.nasset/SK_Matt.scene.nasset"
+    },
+    "7d6ec761-799f-ca38-46d6-19ef4fedc349": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Vehicles/Textures/T_Zombie_Atlas_D.tex.nasset"
     },
     "7da9100a-00fb-326f-39ad-17c3d5c2ac1a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -672,6 +835,10 @@
             "6d51e2ad-18d5-6f06-a500-9b318a4839f6",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "848982ba-84ff-82f2-4255-3e3a28b1afd6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Vehicles/Truck_Armored_Body.scene.nasset/Truck_Armored_Body.scene.nasset"
     },
     "84df3ed3-a2d2-8cd4-38ce-a10188bbc6e5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -709,6 +876,18 @@
         "dependencies": [
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "41b9423f-95b8-82e3-b24a-8d94a09ff2e0",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "896c62da-6457-1eb7-df41-5af2492a0f5b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Sedan_Body.scene.nasset/Sedan Body.mesh.nasset/Sedan Body Vehicle Brake Lights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6b082b6f-4329-1781-fb14-01f83cbd694a",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -775,6 +954,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "928fe82e-894f-b87b-3143-ffc36ebeb247": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Vehicles/Material Instances/Vehicle Brake Lights.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "95d953bb-56cc-1558-ff32-030d7f1c10fe": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -835,6 +1021,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "99690929-34d8-b4e7-86fd-255edea33b37": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Vehicles/Truck_Armored_Body.scene.nasset/Truck Armored Body.mesh.nasset/Truck Armored Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9a0085fd-10db-30f7-f241-be3bb055b7d3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Pickup_Truck_Body.scene.nasset/Pickup Truck Body.mesh.nasset/Pickup Truck Body Vehicle Headlights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d2174e40-d630-8c90-195f-79b5b105ae9f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "9a5d7710-36da-f197-88c8-e29b937a5b78": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -881,6 +1086,18 @@
         ],
         "dependencies": [
             "5151b50b-627d-27b0-7e2c-1ada12cebf16",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a18934a3-57c2-d635-0e87-58d3cefc2329": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Truck_Body.scene.nasset/Truck Body.mesh.nasset/Truck Body Vehicle Headlights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e01b4a73-af4b-d735-c746-633653bdeca5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -970,6 +1187,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "aed10b40-96cf-a3b4-150d-c5570181bc47": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Truck_Body.scene.nasset/Truck Body.mesh.nasset/Truck Body Zom Bae Vehicles.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "35f2a15c-ceb8-69f0-a028-52624f8cca5a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "aed83502-f12d-1156-dba4-781b359dd2d7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -999,6 +1228,18 @@
         "path": "Assets/Objects/Material Instances/Light.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "b6ef25f7-3349-75ab-e638-96500f97f6c4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Sedan_Armored_Body.scene.nasset/Sedan Armored Body.mesh.nasset/Sedan Armored Body Vehicle Headlights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e01b4a73-af4b-d735-c746-633653bdeca5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "b8ac511d-c9c2-27ae-f56a-9bc6d5b8753b": {
@@ -1109,6 +1350,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d2174e40-d630-8c90-195f-79b5b105ae9f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Vehicles/Material Instances/Vehicle Headlights.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "d27510d7-7a5c-720a-4530-83a458fde9c1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1173,6 +1421,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d3dd2506-6b64-60c4-e60d-ae53dad8a150": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Sedan_Body.scene.nasset/Sedan Body.mesh.nasset/Sedan Body Vehicle Headlights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e01b4a73-af4b-d735-c746-633653bdeca5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "d55a06b5-d9f3-d5d3-17ac-c19d1687b9a1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1198,6 +1458,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d69e4fdf-4158-5c2e-ffa5-390d4190021c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Pickup_Truck_Armored_Body.scene.nasset/Pickup Truck Armored Body.mesh.nasset/Pickup Truck Armored Body Zom Bae Vehicles.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "35f2a15c-ceb8-69f0-a028-52624f8cca5a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d818d6f2-e8aa-efe6-df3a-ba15766bcd3b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Vehicles/Sedan_Armored_Body.scene.nasset/Sedan Armored Body.mesh.nasset/Sedan Armored Body.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "d8479292-8560-8e6d-9888-346cdf41eb4c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1211,6 +1490,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d872c53c-ba6f-2a53-b976-90564378289f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Vehicles/Sedan_Body.scene.nasset/Sedan_Body.scene.nasset"
+    },
     "d8b3d127-50cd-bf9d-3e45-fcbb566e217a": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1221,6 +1504,37 @@
         "path": "Assets/Characters/Human/SK_Shaun.scene.nasset/SK Shaun.mesh.nasset/SK Shaun.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "daff0e40-9b47-61df-7693-149e3b1202ba": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Pickup_Truck_Armored_Body.scene.nasset/Pickup Truck Armored Body.mesh.nasset/Pickup Truck Armored Body Vehicle Headlights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "77470d30-1fb1-95a8-d4db-96541db38f37",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "dd481f31-767c-e9b5-5ccd-de512f23a0b7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Sedan_Armored_Body.scene.nasset/Sedan Armored Body.mesh.nasset/Sedan Armored Body Zom Bae Vehicles.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "35f2a15c-ceb8-69f0-a028-52624f8cca5a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e01b4a73-af4b-d735-c746-633653bdeca5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Vehicles/Material Instances/Vehicle Headlights.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "e11aa615-b338-f379-f83f-15bfef2a4ee7": {
@@ -1238,6 +1552,10 @@
     "e27778e3-0b91-c72f-f905-fd3a0cb34434": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Textures/T_Zombie_Atlas_D.tex.nasset"
+    },
+    "e539853e-318a-1a14-3fd7-cbcd9db64cf0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Vehicles/Truck_Body.scene.nasset/Truck_Body.scene.nasset"
     },
     "e69d691f-6fe9-a481-d83f-2a3f3e457aef": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1291,6 +1609,18 @@
         ],
         "dependencies": [
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "eae17fd0-2888-e6a3-6ac1-fc6d1e900486": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Vehicles/Truck_Body.scene.nasset/Truck Body.mesh.nasset/Truck Body Vehicle Brake Lights.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6b082b6f-4329-1781-fb14-01f83cbd694a",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
