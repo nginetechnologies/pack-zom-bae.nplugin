@@ -29,6 +29,30 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "04c10eb4-3cf6-4a32-abf3-7d66c5c15f73": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/Animations/Dog Walk.anim.nasset",
+        "dependencies": [
+            "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
+        ]
+    },
+    "05519328-a811-42a9-8564-abd7ebbb6383": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/Animations/Dog Death.anim.nasset",
+        "dependencies": [
+            "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
+        ]
+    },
+    "0777995d-c02d-450f-8f1c-28f30974e4c1": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/Animations/Dog Idle 2.anim.nasset",
+        "dependencies": [
+            "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
+        ]
+    },
     "0780a5c3-4b84-5516-6d61-675d932e5027": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -223,6 +247,14 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "1d6248fe-0b4f-4b3b-9357-16a9b3048754": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/Animations/Dog Hit React L.anim.nasset",
+        "dependencies": [
+            "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
+        ]
+    },
     "1d9e0314-ba4c-146b-a24f-0b358d849bfc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -304,6 +336,14 @@
             "25e4aa71-b875-577c-272c-b4a8899b97ba",
             "31cb8aee-16eb-076f-9cc9-5736a1e5d180",
             "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
+        ]
+    },
+    "2f0f69e1-5047-492e-b758-3d05d080d5c9": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/Animations/Dog Eating.anim.nasset",
+        "dependencies": [
+            "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
         ]
     },
     "31cb8aee-16eb-076f-9cc9-5736a1e5d180": {
@@ -605,6 +645,14 @@
         "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Pistol.mesh.nasset/Pistol.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5977949e-d03c-4692-a16f-5bbd53456c52": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/Animations/Dog Run.anim.nasset",
+        "dependencies": [
+            "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
         ]
     },
     "5d3c442d-0dbd-2126-a416-37dd925457fc": {
@@ -925,6 +973,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8e24a7d7-3aae-41e2-a22d-06e8ddc2bc53": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/Animations/Dog Idle 1.anim.nasset",
+        "dependencies": [
+            "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
+        ]
+    },
     "9157faa3-1aa4-a24b-ab15-e8cfd1c17821": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -971,6 +1027,14 @@
         "dependencies": [
             "5151b50b-627d-27b0-7e2c-1ada12cebf16",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "966cb283-d8e9-4dce-a120-c21252b871cb": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/Animations/Dog Hit React R.anim.nasset",
+        "dependencies": [
+            "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
         ]
     },
     "9681b24a-f0ce-562d-0ebb-114df4c5d66d": {
@@ -1470,6 +1534,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d70e0399-b5de-4023-a2c2-6aa4512fb8c5": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/Animations/Dog Attack.anim.nasset",
+        "dependencies": [
+            "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
+        ]
+    },
     "d818d6f2-e8aa-efe6-df3a-ba15766bcd3b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Vehicles/Sedan_Armored_Body.scene.nasset/Sedan Armored Body.mesh.nasset/Sedan Armored Body.mesh.nasset",
@@ -1552,6 +1624,14 @@
     "e27778e3-0b91-c72f-f905-fd3a0cb34434": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Textures/T_Zombie_Atlas_D.tex.nasset"
+    },
+    "e520c661-610a-42d5-8cea-577c089adf3b": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Dogs/Animations/Dog Idle 3.anim.nasset",
+        "dependencies": [
+            "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
+        ]
     },
     "e539853e-318a-1a14-3fd7-cbcd9db64cf0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",

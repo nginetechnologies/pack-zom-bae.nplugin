@@ -13,5 +13,8 @@
         }
     ],
     "guid": "2f0f69e1-5047-492e-b758-3d05d080d5c9",
-    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
+    ]
 }
