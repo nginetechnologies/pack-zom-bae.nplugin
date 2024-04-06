@@ -1,5 +1,5 @@
 {
-    "source": ".fbx",
+    "source": "A_Zombie_Rib_Run.fbx",
     "skeleton": "",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
@@ -9,10 +9,10 @@
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": ""
+            "animation": "85e23a3e-15d6-4b3b-8c4a-15c5e06f81ec"
         }
     ],
-    "guid": "",
+    "guid": "85e23a3e-15d6-4b3b-8c4a-15c5e06f81ec",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
         ""
