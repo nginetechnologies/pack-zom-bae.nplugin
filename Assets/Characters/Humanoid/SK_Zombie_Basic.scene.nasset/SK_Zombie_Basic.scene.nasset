@@ -1,0 +1,34 @@
+{
+    "guid": "b8bcf3bc-0569-b573-44f3-ebe4d660aacd",
+    "source": "../SK_Zombie_Basic.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "94edaabc-023a-9fc5-bc6a-f18ef8883ee5",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Zombie Basic"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ebb6995d-4ca8-01ae-dd56-5a2a51ceb5a4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Zombie Basic"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4881bab4-26e7-13ca-0071-355ec56c1af7"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b8bcf3bc-0569-b573-44f3-ebe4d660aacd"
+    },
+    "dependencies": [
+        "4881bab4-26e7-13ca-0071-355ec56c1af7"
+    ]
+}

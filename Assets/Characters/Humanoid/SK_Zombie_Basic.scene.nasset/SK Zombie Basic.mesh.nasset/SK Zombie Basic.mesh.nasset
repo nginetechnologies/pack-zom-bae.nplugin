@@ -1,0 +1,75 @@
+{
+    "guid": "4881bab4-26e7-13ca-0071-355ec56c1af7",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "335f7c31-4426-6e22-2151-bb7451ddd0d4",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "d178033c-50b2-780c-9d4f-66757e579863",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Zombie Basic Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "ee838ac2-98d7-4a5e-e480-3fbd5963c016",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f96869ac-c04d-54eb-f953-750123dc1bb6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Zombie Basic Zombie Characters"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ac0911eb-f1e5-1fa5-6159-6540b9d55b19",
+                                "material_instance": "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e360b6b2-a105-970e-5ea0-7a7b777ea16f"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "c561ad0f-2381-2e38-5bd2-4f12fdd616da"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4881bab4-26e7-13ca-0071-355ec56c1af7"
+    },
+    "dependencies": [
+        "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
+        "ac0911eb-f1e5-1fa5-6159-6540b9d55b19",
+        "e360b6b2-a105-970e-5ea0-7a7b777ea16f",
+        "c561ad0f-2381-2e38-5bd2-4f12fdd616da"
+    ]
+}

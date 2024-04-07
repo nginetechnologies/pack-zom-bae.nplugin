@@ -65,6 +65,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "084f9125-1e77-7b51-60c3-5bf00c7313a6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Chubby.scene.nasset/SK Zombie Chubby.mesh.nasset/SK Zombie Chubby.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "0b3f64bb-ec7c-882e-9c9e-68f7d7ac0067": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -165,6 +172,13 @@
         "dependencies": [
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "14dd04b6-8a46-6bf0-b42e-d132b4a955bd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Arm.scene.nasset/SK Zombie Arm.mesh.nasset/SK Zombie Arm.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "162aaf99-de9b-db62-1cda-b4a239b0cd7c": {
@@ -305,6 +319,13 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "2578c253-7a0a-4204-8806-37596628e83c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Rib.scene.nasset/SK Zombie Rib.mesh.nasset/SK Zombie Rib.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "25e4aa71-b875-577c-272c-b4a8899b97ba": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -335,6 +356,16 @@
         "dependencies": [
             "25e4aa71-b875-577c-272c-b4a8899b97ba",
             "31cb8aee-16eb-076f-9cc9-5736a1e5d180",
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
+        ]
+    },
+    "2e30c8b5-7664-3e9b-c4e0-980cb6fe4a0a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Chubby.scene.nasset/SK Zombie Chubby.mesh.nasset/SK Zombie Chubby Zombie Characters.meshskin.nasset",
+        "dependencies": [
+            "fb7e3664-ed99-ced4-e17f-322d0aa7b07e",
+            "c0a9e1d0-9a93-c536-5513-7084d7912d1b",
             "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
         ]
     },
@@ -527,6 +558,11 @@
             "fccb2935-b386-ea1f-1637-e745c81192f5"
         ]
     },
+    "47ac9164-7845-e0da-af27-08474d86491f": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Rib.scene.nasset/SK Zombie Rib.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "47dd4928-322b-8de3-ac8e-ca39791613f6": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -540,6 +576,13 @@
     "4840f086-64c6-a873-5852-24ec333bb8a7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Knife.mesh.nasset/Knife.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "4881bab4-26e7-13ca-0071-355ec56c1af7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Basic.scene.nasset/SK Zombie Basic.mesh.nasset/SK Zombie Basic.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -841,6 +884,10 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Vehicles/Vehicle_Wheel.scene.nasset/Vehicle_Wheel.scene.nasset"
     },
+    "7c13704d-15c0-ba3a-66a4-a08eb9d3fabd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Chubby.scene.nasset/SK_Zombie_Chubby.scene.nasset"
+    },
     "7c6b1e19-dac4-d9fe-95d6-4e0033b87cd4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "path": "Assets/Characters/Human/SK_Matt.scene.nasset/SK_Matt.scene.nasset"
@@ -870,6 +917,10 @@
             "6def467e-bf81-d7dd-ce5e-5e2d326475e4",
             "fccb2935-b386-ea1f-1637-e745c81192f5"
         ]
+    },
+    "7f733445-5b3d-f8e7-5f88-0f46f0daad37": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Arm.scene.nasset/SK_Zombie_Arm.scene.nasset"
     },
     "802304c8-d102-5bf3-0d7b-d433960a208d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -925,6 +976,16 @@
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "41b9423f-95b8-82e3-b24a-8d94a09ff2e0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "890a159d-17a1-df85-2d07-69da292244f9": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Rib.scene.nasset/SK Zombie Rib.mesh.nasset/SK Zombie Rib Zombie Characters.meshskin.nasset",
+        "dependencies": [
+            "c68d1248-b225-4790-0870-a88d18545bda",
+            "47ac9164-7845-e0da-af27-08474d86491f",
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
         ]
     },
     "896c62da-6457-1eb7-df41-5af2492a0f5b": {
@@ -1251,6 +1312,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ac0911eb-f1e5-1fa5-6159-6540b9d55b19": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Basic.scene.nasset/SK Zombie Basic.mesh.nasset/SK Zombie Basic Zombie Characters.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "aed10b40-96cf-a3b4-150d-c5570181bc47": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1294,6 +1367,18 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "b626de97-70a0-5f50-02f0-a5a035fb674d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Arm.scene.nasset/SK Zombie Arm.mesh.nasset/SK Zombie Arm Zombie Characters.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "b6ef25f7-3349-75ab-e638-96500f97f6c4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1318,6 +1403,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b8bcf3bc-0569-b573-44f3-ebe4d660aacd": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Basic.scene.nasset/SK_Zombie_Basic.scene.nasset"
+    },
     "b9b16e76-7ab6-5fd2-d411-2fb778706822": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Characters/Weapons/SC_Zom_Bae_Weapons.scene.nasset/Shotgun.mesh.nasset/Shotgun.mesh.nasset",
@@ -1336,6 +1425,16 @@
             "f980bdfd-20b1-b20e-c6bc-620ebf860e53",
             "aed83502-f12d-1156-dba4-781b359dd2d7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bc62d4c2-91b7-5c46-f557-8de58dda1027": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Arm.scene.nasset/SK Zombie Arm.mesh.nasset/SK Zombie Arm Zombie Characters.meshskin.nasset",
+        "dependencies": [
+            "b626de97-70a0-5f50-02f0-a5a035fb674d",
+            "d778b1d7-dd14-8cae-de1c-49245e829080",
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
         ]
     },
     "bdb3343f-8dd9-1b07-0980-1ea6301d0169": {
@@ -1357,6 +1456,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c0a9e1d0-9a93-c536-5513-7084d7912d1b": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Chubby.scene.nasset/SK Zombie Chubby.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "c181e131-25cd-1982-fb5b-fa1a5cb7cb49": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1374,6 +1478,23 @@
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Characters/Human/SK_Lis.scene.nasset/SK Lis.mesh.nasset/SK Lis Zombie Characters.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "c561ad0f-2381-2e38-5bd2-4f12fdd616da": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Basic.scene.nasset/SK Zombie Basic.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "c68d1248-b225-4790-0870-a88d18545bda": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Rib.scene.nasset/SK Zombie Rib.mesh.nasset/SK Zombie Rib Zombie Characters.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1542,6 +1663,11 @@
             "6def467e-bf81-d7dd-ce5e-5e2d326475e4"
         ]
     },
+    "d778b1d7-dd14-8cae-de1c-49245e829080": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Arm.scene.nasset/SK Zombie Arm.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "d818d6f2-e8aa-efe6-df3a-ba15766bcd3b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Vehicles/Sedan_Armored_Body.scene.nasset/Sedan Armored Body.mesh.nasset/Sedan Armored Body.mesh.nasset",
@@ -1602,6 +1728,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "de6d753c-5642-bfc2-3a4c-351000e1a2ad": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Rib.scene.nasset/SK_Zombie_Rib.scene.nasset"
+    },
     "e01b4a73-af4b-d735-c746-633653bdeca5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Vehicles/Material Instances/Vehicle Headlights.mtli.nasset",
@@ -1624,6 +1754,16 @@
     "e27778e3-0b91-c72f-f905-fd3a0cb34434": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Textures/T_Zombie_Atlas_D.tex.nasset"
+    },
+    "e360b6b2-a105-970e-5ea0-7a7b777ea16f": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Basic.scene.nasset/SK Zombie Basic.mesh.nasset/SK Zombie Basic Zombie Characters.meshskin.nasset",
+        "dependencies": [
+            "ac0911eb-f1e5-1fa5-6159-6540b9d55b19",
+            "c561ad0f-2381-2e38-5bd2-4f12fdd616da",
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92"
+        ]
     },
     "e520c661-610a-42d5-8cea-577c089adf3b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1772,6 +1912,18 @@
         ],
         "dependencies": [
             "5151b50b-627d-27b0-7e2c-1ada12cebf16",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "fb7e3664-ed99-ced4-e17f-322d0aa7b07e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Humanoid/SK_Zombie_Chubby.scene.nasset/SK Zombie Chubby.mesh.nasset/SK Zombie Chubby Zombie Characters.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8bae7d67-feda-acbf-9852-d01eb1a1ed92",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
