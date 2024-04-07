@@ -145,7 +145,7 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": ""
+                                "scene": "40478f3b-e35a-fb2c-aeba-e9ea2c49b8fd"
                             },
                             "data_components": [
                                 {
@@ -190,8 +190,8 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "6ba72e51-bb0f-451a-bf82-8f0968205e36"
     },
-    "thumbnailGuid": "",
+    "thumbnailGuid": "51f3d849-55d4-4242-b3f3-aa656e4a3dd6",
     "dependencies": [
-        ""
+        "40478f3b-e35a-fb2c-aeba-e9ea2c49b8fd"
     ]
 }
