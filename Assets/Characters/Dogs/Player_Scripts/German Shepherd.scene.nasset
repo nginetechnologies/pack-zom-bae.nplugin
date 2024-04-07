@@ -1,5 +1,5 @@
 {
-    "guid": "4169f1fe-8228-4b2d-8cd2-18e07b18c5be",
+    "guid": "2aef5425-5f2f-438e-b694-2fa5a8a32ccd",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
@@ -145,12 +145,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "60238f5d-813d-76b5-728d-9c190b5e9309"
+                                "scene": ""
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Fernando character scene"
+                                    "name": "German Shepherd Scene"
                                 }
                             ]
                         }
@@ -188,10 +188,10 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "4169f1fe-8228-4b2d-8cd2-18e07b18c5be"
+        "scene": "2aef5425-5f2f-438e-b694-2fa5a8a32ccd"
     },
-    "thumbnailGuid": "79bf5cf5-8c50-46cb-bef5-d0ea7e4881f8",
+    "thumbnailGuid": "",
     "dependencies": [
-        "60238f5d-813d-76b5-728d-9c190b5e9309"
+        ""
     ]
 }
