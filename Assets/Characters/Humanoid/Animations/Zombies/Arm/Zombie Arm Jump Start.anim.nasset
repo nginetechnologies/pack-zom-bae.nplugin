@@ -1,10 +1,10 @@
 {
     "source": "A_Zombie_Arm_Jump_Start.fbx",
-    "skeleton": "",
+    "skeleton": "d778b1d7-dd14-8cae-de1c-49245e829080",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "d778b1d7-dd14-8cae-de1c-49245e829080"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "ab2a0a4f-657d-493a-8f70-12f5aa4c7beb",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "d778b1d7-dd14-8cae-de1c-49245e829080"
     ]
 }

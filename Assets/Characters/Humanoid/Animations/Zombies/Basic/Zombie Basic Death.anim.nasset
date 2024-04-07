@@ -1,10 +1,10 @@
 {
     "source": "A_Zombie_Basic_Death.fbx",
-    "skeleton": "",
+    "skeleton": "c561ad0f-2381-2e38-5bd2-4f12fdd616da",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "c561ad0f-2381-2e38-5bd2-4f12fdd616da"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "0757aa71-fe71-4ded-b371-303140fbbe92",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "c561ad0f-2381-2e38-5bd2-4f12fdd616da"
     ]
 }

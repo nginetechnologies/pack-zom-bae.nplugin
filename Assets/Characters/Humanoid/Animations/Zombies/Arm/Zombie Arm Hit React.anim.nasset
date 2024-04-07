@@ -1,10 +1,10 @@
 {
     "source": "A_Zombie_Arm_Hit_React.fbx",
-    "skeleton": "",
+    "skeleton": "d778b1d7-dd14-8cae-de1c-49245e829080",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "d778b1d7-dd14-8cae-de1c-49245e829080"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "b510b0e1-f3f5-45eb-85fc-f3d22d3050ef",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "d778b1d7-dd14-8cae-de1c-49245e829080"
     ]
 }

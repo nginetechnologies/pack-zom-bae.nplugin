@@ -1,10 +1,10 @@
 {
     "source": "A_Zombie_Rib_Idle.fbx",
-    "skeleton": "",
+    "skeleton": "47ac9164-7845-e0da-af27-08474d86491f",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "fa9fb1b7-f624-b27b-3d09-d58aa86181a4",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": ""
+        "skeleton": "47ac9164-7845-e0da-af27-08474d86491f"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "26603689-e553-494a-b4a4-e3edd12b5d3a",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        ""
+        "47ac9164-7845-e0da-af27-08474d86491f"
     ]
 }
