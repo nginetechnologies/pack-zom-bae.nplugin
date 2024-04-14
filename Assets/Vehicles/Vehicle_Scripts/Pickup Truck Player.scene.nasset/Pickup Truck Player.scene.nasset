@@ -2,14 +2,13 @@
     "guid": "24c6732b-860c-4e5f-89d4-d310a27e991e",
     "type_version": 1,
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "6ac3539a-a626-4ad7-8579-d9af939b68b1",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 4096.0
     },
     "dependencies": [
-        "bafd78a0-4878-4397-9842-5ced5461bd89",
-        "5a055b43-6512-4142-8208-4589dfc91f29",
-        "ad1b4583-8b4c-48d8-a1e3-6f41b6e7708a"
+        "f46e2e2c-4c3d-40de-a7c3-5aa6114c7ab5",
+        "03e0a905-ff95-4f68-a70c-21f0f41fae62",
+        "b75ddb2e-0016-4f13-8fb9-1db9dd3aebb4"
     ],
     "tags": [
         "c642f003-618a-45dc-a031-b16f61473103"
@@ -163,7 +162,7 @@
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Monster Truck 9 Body"
+                                    "name": "Pickup Truck Body"
                                 }
                             ],
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
@@ -174,7 +173,7 @@
                                 ]
                             },	
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "e9840f9a-4c58-4ad9-a756-e03d8e92b94b"
+                                "scene": "f46e2e2c-4c3d-40de-a7c3-5aa6114c7ab5"
                             }
                         },
                         {
@@ -183,12 +182,12 @@
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
-                                    -2.37668,
-                                    1.12116
+                                    -1.22,
+                                    0.43
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "fd7e5ab1-a0cb-4310-9b0c-959ca7e013f2"
+                                "scene": "03e0a905-ff95-4f68-a70c-21f0f41fae62"
                             }
                         },
                         {
@@ -197,12 +196,12 @@
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
-                                    2.37668,
-                                    1.12116
+                                    1.88,
+                                    0.43
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "f4472463-faeb-4a81-afd4-90c639c3904b"
+                                "scene": "b75ddb2e-0016-4f13-8fb9-1db9dd3aebb4"
                             }
                         }
                     ]

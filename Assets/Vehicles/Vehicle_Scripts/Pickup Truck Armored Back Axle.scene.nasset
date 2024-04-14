@@ -9,7 +9,7 @@
         }
     ],
     "dependencies": [
-        "55d291f8-863c-4385-b1bb-a56d15c9bd5e"
+        "5fd5e840-c969-48c8-a8fc-7aad73528a9d"
     ],
     "children": [
         {
@@ -76,7 +76,7 @@
                         }
                     ],
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "55d291f8-863c-4385-b1bb-a56d15c9bd5e"
+                        "scene": "5fd5e840-c969-48c8-a8fc-7aad73528a9d"
                     }
                 },
                 {
@@ -127,7 +127,7 @@
                         }
                     ],
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "55d291f8-863c-4385-b1bb-a56d15c9bd5e"
+                        "scene": "5fd5e840-c969-48c8-a8fc-7aad73528a9d"
                     }
                 }
             ]

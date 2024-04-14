@@ -7,9 +7,9 @@
         "radius": 4096.0
     },
     "dependencies": [
-        "bafd78a0-4878-4397-9842-5ced5461bd89",
-        "5a055b43-6512-4142-8208-4589dfc91f29",
-        "ad1b4583-8b4c-48d8-a1e3-6f41b6e7708a"
+        "4abd915c-d099-40b6-9dac-28a754451acd",
+        "0f1f1d7b-f0fd-49fc-9030-b38ce5af45ce",
+        "4996f652-9f70-4894-bb33-77463d4fa45d"
     ],
     "tags": [
         "c642f003-618a-45dc-a031-b16f61473103"
@@ -163,7 +163,7 @@
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Monster Truck 9 Body"
+                                    "name": "Truck Body"
                                 }
                             ],
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
@@ -183,12 +183,12 @@
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
-                                    -2.37668,
-                                    1.12116
+                                    -2.14,
+                                    0.43
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "fd7e5ab1-a0cb-4310-9b0c-959ca7e013f2"
+                                "scene": "0f1f1d7b-f0fd-49fc-9030-b38ce5af45ce"
                             }
                         },
                         {
@@ -197,12 +197,12 @@
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
-                                    2.37668,
-                                    1.12116
+                                    1.16,
+                                    0.43
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "f4472463-faeb-4a81-afd4-90c639c3904b"
+                                "scene": "4996f652-9f70-4894-bb33-77463d4fa45d"
                             }
                         }
                     ]

@@ -1,7 +1,6 @@
 {
     "guid": "55d291f8-863c-4385-b1bb-a56d15c9bd5e",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "7341e2ce-4da6-46f7-8e9e-317e60ce9bb9",
     "data_components": [
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -14,8 +13,8 @@
             "instanceGuid": "18397d49-2081-416e-8a3f-603d8d79fea6",
             "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
                 "maxSteeringAngle": 0.0,
-                "radius": 1.15,
-                "width": 1.25,
+                "radius": 0.42,
+                "width": 0.38,
                 "minSuspensionLength": 0.1,
                 "maxSuspensionLength": 0.2,
                 "suspensionStiffness": 1.1,
@@ -51,7 +50,7 @@
                         ]
                     },
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": ""
+                        "scene": "547d90f5-7b93-d34e-ea5c-efbad62c6f62"
                     },
                     "children": [
                         {
@@ -90,6 +89,6 @@
         "scene": "55d291f8-863c-4385-b1bb-a56d15c9bd5e"
     },
     "dependencies": [
-        ""
+        "547d90f5-7b93-d34e-ea5c-efbad62c6f62"
     ]
 }
